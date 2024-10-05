@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning ...
+🌱 I’m currently learning...
+📫 Reach me - obmergajohnjaniel@gmail.com
 
 <!--
 **hottodoggu123/hottodoggu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
