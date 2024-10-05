@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning... \n
+🌱 I’m currently learning...
 📫 Reach me - obmergajohnjaniel@gmail.com
 
 <!--
