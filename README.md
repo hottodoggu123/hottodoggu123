@@ -3,6 +3,13 @@
 
 ![winter-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper com-221@2@b](https://github.com/user-attachments/assets/efacfaf0-4a0c-46f9-9835-c71316c745e0)
 
+<img src="https://github.com/user-attachments/assets/efacfaf0-4a0c-46f9-9835-c71316c745e0" alt="winter whiplash" width="500">
+
+<p align="center">
+  <em>winter-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper.com</em>
+</p>
+
+
 - 🔭 I’m currently working on **improving my technical skills**
 
 - 🌱 I’m currently learning **C++, Java, Python, and a little bit of everything**
