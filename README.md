@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Janiel Obmerga</h1>
 <h3 align="center">An aspiring software engineer from the Philippines</h3>
 
-<p align="center">
-  <img src="https://github.com/hottodoggu123/hottodoggu123/issues/1#issue-2604648169" alt="John Janiel Obmerga" width="200" />
-</p>
-
 <img align="right" alt="whiplash" width="400" src="https://github.com/hottodoggu123/hottodoggu123/issues/1#issue-2604648169">
 
 - 🔭 I’m currently working on **improving my technical skills**
