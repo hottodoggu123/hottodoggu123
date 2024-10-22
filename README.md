@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Janiel Obmerga</h1>
 <h3 align="center">An aspiring software engineer from the Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/74ad2e83353e5e3780259621dc80840d/48662dd2c7a5bb5d-98/s540x810/37ce688ee636ebdcf9da78d5c7295da542e98e3e.gifv">
+
+<p align="center">
+  <img src="https://image-2.uhdpaper.com/wallpaper/winter-whiplash-unbeatable-beat-hd-wallpaper-uhdpaper.com-221@2@b.jpg" alt="John Janiel Obmerga" width="200" />
+</p>
 
 - 🔭 I’m currently working on **improving my technical skills**
 
