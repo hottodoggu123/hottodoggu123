@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Janiel Obmerga</h1>
 <h3 align="center">An aspiring software engineer from the Philippines</h3>
 
-<!--img align="right" alt="whiplash" width="400" src="![winter-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper com-221@2@b](https://github.com/user-attachments/assets/efacfaf0-4a0c-46f9-9835-c71316c745e0)"-->
-
-<img align="right" alt="whiplash" width="400" src="![winter-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper com-221@2@b](https://github.com/user-attachments/assets/efacfaf0-4a0c-46f9-9835-c71316c745e0)">
-<img align="right" alt="whiplash" width="400" ![winter-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper com-221@2@b](https://github.com/user-attachments/assets/efacfaf0-4a0c-46f9-9835-c71316c745e0)>
-<img align="right" alt="whiplash" width="400" src="https://github.com/hottodoggu123/hottodoggu123/issues/2#issue-2604836154">
+https://github.com/hottodoggu123/hottodoggu123/issues/2#issue-2604836154
 
 
 - 🔭 I’m currently working on **improving my technical skills**
