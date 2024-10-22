@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Janiel Obmerga</h1>
 <h3 align="center">An aspiring software engineer from the Philippines</h3>
 
-<img align="right" src="https://github.com/user-attachments/assets/efacfaf0-4a0c-46f9-9835-c71316c745e0" alt="winter whiplash" width="500">
+<img align="right" src="https://github.com/user-attachments/assets/0b9a6569-e3cd-4e68-b940-60315ec6420d" alt="winter whiplash" width="500">
 
 - 🔭 I’m currently working on **improving my technical skills**
 
