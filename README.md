@@ -3,6 +3,8 @@
 
 <img align="right" alt="whiplash" width="400" src="![winter-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper com-221@2@b](https://github.com/user-attachments/assets/efacfaf0-4a0c-46f9-9835-c71316c745e0)">
 
+![winter-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper com-221@2@b](https://github.com/user-attachments/assets/efacfaf0-4a0c-46f9-9835-c71316c745e0)
+
 - 🔭 I’m currently working on **improving my technical skills**
 
 - 🌱 I’m currently learning **C++, Java, Python, and a little bit of everything**
