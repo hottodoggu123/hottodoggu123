@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring software engineer from the Philippines</h3>
 
 <p align="center">
-  <img src="https://image-2.uhdpaper.com/wallpaper/winter-whiplash-unbeatable-beat-hd-wallpaper-uhdpaper.com-221@2@b.jpg" alt="John Janiel Obmerga" width="200" />
+  <img src="https://github.com/hottodoggu123/hottodoggu123/issues/1#issue-2604648169" alt="John Janiel Obmerga" width="200" />
 </p>
 
 - 🔭 I’m currently working on **improving my technical skills**
