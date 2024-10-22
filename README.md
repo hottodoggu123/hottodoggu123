@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Janiel Obmerga</h1>
 <h3 align="center">An aspiring software engineer from the Philippines</h3>
-img align="right" alt="Coding" width="400" src="https://image-2.uhdpaper.com/wallpaper/winter-whiplash-unbeatable-beat-4k-wallpaper-uhdpaper.com-221@2@b.jpg"
 
 - 🔭 I’m currently working on **improving my technical skills**
 
@@ -20,4 +19,4 @@ img align="right" alt="Coding" width="400" src="https://image-2.uhdpaper.com/wal
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hottodoggu123&show_icons=true&locale=en&layout=compact" alt="hottodoggu123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hottodoggu123&show_icons=true&theme=dark&locale=en&layout=compact" alt="hottodoggu123" /></p>
