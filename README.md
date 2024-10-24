@@ -5,10 +5,10 @@
 
 
 #
-<a 🔭 I’m currently working on **improving my technical skills.** </a>
-<a 🌱 I’m currently learning **C++, Java, Python, and a little bit of everything.** </a>
-<a 👨‍💻 All of my projects are available at [https://jobmerga.weebly.com](https://jobmerga.weebly.com) </a>
-<a 📫 How to reach me **obmergajohnjaniel@gmail.com** </a>
+<p 🔭 I’m currently working on **improving my technical skills.** </p>
+<p 🌱 I’m currently learning **C++, Java, Python, and a little bit of everything.** </p>
+<p 👨‍💻 All of my projects are available at [https://jobmerga.weebly.com](https://jobmerga.weebly.com) </p>
+<p 📫 How to reach me **obmergajohnjaniel@gmail.com** </p>
 
 ---
 
