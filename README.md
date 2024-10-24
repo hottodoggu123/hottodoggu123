@@ -5,7 +5,7 @@
 
 
 #
-<p 🔭 I’m currently working on **improving my technical skills.** </p>
+<br 🔭 I’m currently working on **improving my technical skills.** </br>
 <p 🌱 I’m currently learning **C++, Java, Python, and a little bit of everything.** </p>
 <p 👨‍💻 All of my projects are available at [https://jobmerga.weebly.com](https://jobmerga.weebly.com) </p>
 <p 📫 How to reach me **obmergajohnjaniel@gmail.com** </p>
