@@ -12,6 +12,7 @@
 <a href="https://www.facebook.com/obmerga.johnj" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="https://www.facebook.com/obmerga.johnj" width="30px" style="padding-right:10px;" /></a>
 <a href="https://www.instagram.com/john.jn_/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/john.jn_/" width="30px" style="padding-right:10px;" /></a>
 </br>
+</br>
 
 ### 🗂 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
