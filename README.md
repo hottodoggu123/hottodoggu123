@@ -1,5 +1,6 @@
 <h1 align = center>Hi 👋, I'm John Janiel Obmerga</h1>
 <h3 align = center>An aspiring software engineer from the Philippines</h3>
+
 #
 🔭 I’m currently working on **improving my technical skills.** <br/>
 🌱 I’m currently learning **C++, Java, Python, and a little bit of everything.** <br/>
