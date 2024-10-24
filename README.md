@@ -1,4 +1,4 @@
-<h1 align = center>Hi 👋, I'm John Janiel Obmerga</h1>
+<h1 align = center>Hi 👋, I'm John Janiel Obmerga
 <h3 align = center>An aspiring software engineer from the Philippines</h3>
 
 #
