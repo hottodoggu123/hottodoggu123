@@ -4,7 +4,7 @@
 <!--img align="right" src="https://github.com/user-attachments/assets/ae27431f-2d91-47dc-8883-9fe8bb4cd6dd" alt="winter whiplash" width="400"-->
 
 
---
+---
 - 🔭 I’m currently working on **improving my technical skills.**
 - 🌱 I’m currently learning **C++, Java, Python, and a little bit of everything.**
 - 👨‍💻 All of my projects are available at [https://jobmerga.weebly.com](https://jobmerga.weebly.com)
