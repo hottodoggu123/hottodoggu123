@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm John Janiel Obmerga</h1>
-<h3 align="center">An aspiring software engineer from the Philippines</h3>
+<h1>Hi 👋, I'm John Janiel Obmerga</h1>
+<h3>An aspiring software engineer from the Philippines</h3>
 
 <!--img align="right" src="https://github.com/user-attachments/assets/ae27431f-2d91-47dc-8883-9fe8bb4cd6dd" alt="winter whiplash" width="400"-->
 
