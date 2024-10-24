@@ -5,10 +5,10 @@
 
 
 #
-- 🔭 I’m currently working on **improving my technical skills.**
-- 🌱 I’m currently learning **C++, Java, Python, and a little bit of everything.**
-- 👨‍💻 All of my projects are available at [https://jobmerga.weebly.com](https://jobmerga.weebly.com)
-- 📫 How to reach me **obmergajohnjaniel@gmail.com**
+🔭 I’m currently working on **improving my technical skills.**
+🌱 I’m currently learning **C++, Java, Python, and a little bit of everything.**
+👨‍💻 All of my projects are available at [https://jobmerga.weebly.com](https://jobmerga.weebly.com)
+📫 How to reach me **obmergajohnjaniel@gmail.com**
 
 ---
 
