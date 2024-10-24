@@ -30,9 +30,10 @@
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Premier" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" />
 </br>
+</br>
 
 ---
-
+### 📊 My Github Stats
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hottodoggu123" width = 400 /> <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en" alt="hottodoggu123" width = 400 />
