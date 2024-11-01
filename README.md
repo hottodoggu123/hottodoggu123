@@ -35,6 +35,6 @@
 
 ### 📊 My Github Stats
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hottodoggu123" width = 400 /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en" alt="hottodoggu123" width = 400 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hottodoggu123&layout=compact&theme=gruvbox&langs_count=8&locale=en" alt="hottodoggu123" align = left width = 43% />
+  <img src="https://github-readme-stats.vercel.app/api?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en" alt="hottodoggu123" align = left width = 47% />
 </div>
