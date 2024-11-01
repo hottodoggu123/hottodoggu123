@@ -38,3 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hottodoggu123" width = 400 /> <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en" alt="hottodoggu123" width = 400 />
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="hottodoggu123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hottodoggu123&show_icons=true&theme=gruvbox&locale=en" alt="hottodoggu123" /></p>
